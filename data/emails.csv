@@ -1,0 +1,13 @@
+text,label
+"URGENT! Verify your password immediately",phishing
+"Your account has been suspended. Click to restore access",phishing
+"Confirm your banking information to avoid account closure",phishing
+"You have won a prize. Claim your reward now",phishing
+"Security alert! Enter your login credentials here",phishing
+"Your payment failed. Update your card details immediately",phishing
+"Hey, are we still meeting for lunch tomorrow?",legitimate
+"Please find the meeting notes attached",legitimate
+"Your appointment is confirmed for Monday",legitimate
+"Thanks for helping me with the assignment",legitimate
+"Can you review my project before Friday?",legitimate
+"The team meeting starts at 10 AM tomorrow",legitimate
