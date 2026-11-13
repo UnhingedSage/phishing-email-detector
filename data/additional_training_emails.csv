@@ -1,0 +1,25 @@
+text,label
+"Your password was successfully updated. No further action is required.",legitimate
+"Your monthly bank statement is available in your banking app.",legitimate
+"Your account security settings were updated successfully.",legitimate
+"Your payment was received. Thank you for your purchase.",legitimate
+"Your university account remains active for the current semester.",legitimate
+"Your login attempt was successful.",legitimate
+"Your verification code is 482913. Do not share this code.",legitimate
+"Your order has been shipped and tracking information is available.",legitimate
+"Your subscription has been renewed successfully.",legitimate
+"Your account password was changed as requested.",legitimate
+"Your banking information has been updated successfully.",legitimate
+"Your appointment has been rescheduled to Friday afternoon.",legitimate
+"Your university email account requires immediate verification through the provided link.",phishing
+"Your account will be disabled unless you confirm your password using this form.",phishing
+"Congratulations! You have been selected for a job. Submit your banking details to receive payment.",phishing
+"We detected unusual activity. Enter your login credentials on this page to restore access.",phishing
+"Your payment failed. Update your credit card information using the attached form.",phishing
+"Your account is locked. Verify your identity through this external website.",phishing
+"You have won a cash reward. Provide your banking information to claim it.",phishing
+"Your university account will expire today unless you complete the verification form.",phishing
+"Your package cannot be delivered until you pay a processing fee using this link.",phishing
+"Your payroll information must be updated immediately to avoid salary delays.",phishing
+"Your bank requires you to confirm your PIN to prevent account suspension.",phishing
+"Your email storage is full. Enter your password to increase your mailbox capacity.",phishing
